@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+h1 {
+	color: blue;
+	font-size: 50px;
+	text-align: center;
+}
+
+table {
+	margin: auto;	
+}
+
+.t1 {
+	border: 2px solid blue;
+	color: blue;
+	font-family: Helvetica;
+}
+
+.t2 {
+	border-bottom: 2px solid blue;
+	font-weight: bold;
+}
+
+.list{
+	border-right: 2px solid blue;
+}
